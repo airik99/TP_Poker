@@ -43,6 +43,7 @@ Como jugar:
 7) completar las m rondas e informar ganador
 
 Entregas
+
 1° Entrega: 14/2 juego utilizando vectores para almacenar cartas.
 
 2° Entrega: 4/3 completar con los metodos con archivo y listas y entregar un ranking de jugadores con el nombre y el resultado final
