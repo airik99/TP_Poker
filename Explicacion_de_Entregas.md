@@ -2,7 +2,7 @@
 ## (1er parte)
 
 
-### El programa lo hicimos con Dev-C++
+### El programa fue realizado con Dev-C++
 
 
 Lo primero que hicimos fue crear un struct el cual será la estructura del mazo de cartas, lo que contiene el número, el palo (diamante, trébol, pica o corazón) y un booleano que nos indicará “true” si la carta salió, o “false” si la carta aún está en el mazo.
