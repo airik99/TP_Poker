@@ -1,5 +1,5 @@
 # TP Poker 
-## Algoritmo y Estrutura de Datos - Curso de verano 2020
+## Algoritmos y Estrutura de Datos - Curso de verano 2020
 
 Realizar un programa que permita jugar al poker. Al iniciar el juego se deberá determinar la cantidad de rondas y la cantidad de jugadores. Gana la ronda el jugador que tiene la combinación de mayor valor, y se suman los resultados parciales de cada ronda para determinar el ganador del torneo.
 
